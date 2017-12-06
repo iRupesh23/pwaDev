@@ -5,7 +5,7 @@
   "background_color": "#fcdd44",
   "display": "standalone",
   "Scope": "/",
-   "start_url": "/",
+   "start_url": "https://diyappdesigner.com/holiday/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
